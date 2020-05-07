@@ -1,0 +1,24 @@
+[33mcommit 9acff4aaba6aebc2182398f7e6b4019adbbd4737[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/features-table[m[33m, [m[1;32mfeatures-table[m[33m, [m[1;32mfeature-form[m[33m)[m
+Author: Carlos Fausto Huamán Rengifo <fhuamanr@gmail.com>
+Date:   Wed May 6 19:21:19 2020 -0500
+
+    Ejercio Tablas
+
+[33mcommit 79f3c50c7ae62902c4aed761ba91285288de3c33[m
+Merge: e76fefc 748ce74
+Author: Carlos Fausto Huamán Rengifo <fhuamanr@gmail.com>
+Date:   Wed May 6 19:05:51 2020 -0500
+
+    Merge branch 'master' of https://github.com/fhuamanr/Proyect_Figma
+
+[33mcommit 748ce747c6fa748b833fcefe330892a7531af9e5[m
+Author: fhuamanr <59769168+fhuamanr@users.noreply.github.com>
+Date:   Wed May 6 19:04:25 2020 -0500
+
+    Initial commit
+
+[33mcommit e76fefc57cfe5e295a0ad2a5959d55505ce47798[m
+Author: Carlos Fausto Huamán Rengifo <fhuamanr@gmail.com>
+Date:   Wed May 6 19:02:13 2020 -0500
+
+    Prouecto_Figma
